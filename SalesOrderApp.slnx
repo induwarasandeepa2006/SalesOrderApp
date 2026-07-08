@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SalesOrderApp.API/SalesOrderApp.API.csproj" />
+  <Project Path="SalesOrderApp.Application/SalesOrderApp.Application.csproj" />
+  <Project Path="SalesOrderApp.Domain/SalesOrderApp.Domain.csproj" />
+  <Project Path="SalesOrderApp.Infrastructure/SalesOrderApp.Infrastructure.csproj" />
+</Solution>
